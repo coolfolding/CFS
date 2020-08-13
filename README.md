@@ -17,15 +17,16 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
 1. Numbered
 2. List
-
+![Image of Yaktocat](https://github.com/coolfolding/CFS/blob/master/CFS%20LOGO%202.png)
 **Bold** and _Italic_ and `Code` text
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 [Link](url) and ![Image](src)
 ```
-
+https://octodex.github.com/images/yaktocat.png
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
