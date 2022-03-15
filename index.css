@@ -400,7 +400,10 @@ input:focus, textarea:focus, select:focus
 #wb_LayoutGrid3
 {
    clear: both;
-   position: relative;
+   position: -webkit-sticky;
+   position: sticky;
+   top: 0;
+   z-index: 7776;
    table-layout: fixed;
    display: table;
    text-align: center;
@@ -417,6 +420,7 @@ input:focus, textarea:focus, select:focus
    padding: 0px 5px 0px 5px;
    margin-right: auto;
    margin-left: auto;
+   max-width: 1920px;
 }
 #LayoutGrid3 > .row
 {
@@ -546,7 +550,7 @@ input:focus, textarea:focus, select:focus
 {
    clear: both;
 }
-@media (max-width: 480px)
+@media (max-width: 0px)
 {
 #LayoutGrid3 > .row > .col-1, #LayoutGrid3 > .row > .col-2, #LayoutGrid3 > .row > .col-3, #LayoutGrid3 > .row > .col-4, #LayoutGrid3 > .row > .col-5, #LayoutGrid3 > .row > .col-6, #LayoutGrid3 > .row > .col-7, #LayoutGrid3 > .row > .col-8, #LayoutGrid3 > .row > .col-9, #LayoutGrid3 > .row > .col-10, #LayoutGrid3 > .row > .col-11, #LayoutGrid3 > .row > .col-12
 {
@@ -723,13 +727,13 @@ input:focus, textarea:focus, select:focus
    max-width: 100% !important;
 }
 }
-#PageFooter2
+#PageFooter1
 {
    background-color: #F5F5F5;
    background-image: none;
    box-sizing: border-box;
 }
-#PageFooter1
+#PageFooter2
 {
    background-color: #F5F5F5;
    background-image: none;
