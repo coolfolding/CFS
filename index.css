@@ -266,23 +266,6 @@ input:focus, textarea:focus, select:focus
    vertical-align: top;
    object-fit: contain;
 }
-#wb_Image4
-{
-   height: 100%;
-   margin: 0;
-   vertical-align: top;
-}
-#Image4
-{
-   border: 0px solid #000000;
-   box-sizing: border-box;
-   padding: 0;
-   display: block;
-   width: 100%;
-   height: 100%;
-   vertical-align: top;
-   object-fit: contain;
-}
 #YouTube1
 {
    position: absolute;
@@ -727,13 +710,13 @@ input:focus, textarea:focus, select:focus
    max-width: 100% !important;
 }
 }
-#PageFooter1
+#PageFooter2
 {
    background-color: #F5F5F5;
    background-image: none;
    box-sizing: border-box;
 }
-#PageFooter2
+#PageFooter1
 {
    background-color: #F5F5F5;
    background-image: none;
