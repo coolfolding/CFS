@@ -723,13 +723,13 @@ input:focus, textarea:focus, select:focus
    max-width: 100% !important;
 }
 }
-#PageFooter1
+#PageFooter2
 {
    background-color: #F5F5F5;
    background-image: none;
    box-sizing: border-box;
 }
-#PageFooter2
+#PageFooter1
 {
    background-color: #F5F5F5;
    background-image: none;
