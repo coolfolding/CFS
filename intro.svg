@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="480"
+   height="270"
+   viewBox="0 0 127 71.437498"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="intro.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="397.13693"
+     inkscape:cy="344.4555"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="62.13707"
+       y="52.681431"
+       width="529.51593"
+       height="316.08859"
+       id="rect1514" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1512"
+       style="font-size:40px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';white-space:pre;shape-inside:url(#rect1514)" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.83998px;line-height:1.5;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.220999"
+       x="68.309357"
+       y="10.898352"
+       id="text5010"
+       transform="scale(0.93297202,1.0718435)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;text-anchor:middle;stroke-width:0.220999"
+         x="68.309357"
+         y="10.898352"
+         id="tspan9190">Electric Folding Technology</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;text-anchor:middle;stroke-width:0.220999"
+         x="68.309357"
+         y="24.158321"
+         id="tspan66975">Folded Volume &gt;50L <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.69778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';stroke-width:0.220999"
+   id="tspan68135">(smaller than the Mac-Pro case)</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;text-anchor:middle;stroke-width:0.220999"
+         x="68.309357"
+         y="37.418293"
+         id="tspan10272">4-wheel Independent Suspension</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;text-anchor:middle;stroke-width:0.220999"
+         x="68.309357"
+         y="50.678265"
+         id="tspan5016">8&quot; Brushless Rear Wheels</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;text-anchor:middle;stroke-width:0.220999"
+         x="68.309357"
+         y="63.938232"
+         id="tspan43647">ALL IN ONE!</tspan></text>
+  </g>
+</svg>
