@@ -140,7 +140,7 @@ input:focus, textarea:focus, select:focus
    display: table;
    text-align: center;
    width: 100%;
-   background-color: #D3D3D3;
+   background-color: #DCDCDC;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -411,7 +411,7 @@ input:focus, textarea:focus, select:focus
    display: table;
    text-align: center;
    width: 100%;
-   background-color: #C0C0C0;
+   background-color: #DCDCDC;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -708,7 +708,7 @@ input:focus, textarea:focus, select:focus
 {
    clear: both;
 }
-@media (max-width: 480px)
+@media (max-width: 320px)
 {
 #LayoutGrid4 > .row > .col-1, #LayoutGrid4 > .row > .col-2, #LayoutGrid4 > .row > .col-3, #LayoutGrid4 > .row > .col-4, #LayoutGrid4 > .row > .col-5, #LayoutGrid4 > .row > .col-6
 {
