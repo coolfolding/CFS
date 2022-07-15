@@ -540,9 +540,9 @@ input:focus, textarea:focus, select:focus
    align-content: center;
    align-self: stretch;
    align-items: center;
-   -webkit-justify-content: flex-start;
-   justify-content: flex-start;
-   text-align: left;
+   -webkit-justify-content: center;
+   justify-content: center;
+   text-align: center;
 }
 #LayoutGrid3 > .col-2
 {
@@ -693,7 +693,7 @@ input:focus, textarea:focus, select:focus
 #LayoutGrid4
 {
    box-sizing: border-box;
-   padding: 0 15px 0 15px;
+   padding: 10px 15px 0 15px;
    margin-right: auto;
    margin-left: auto;
 }
